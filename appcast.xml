@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Perfect Memory for macOS</title>
-    <link>https://raw.githubusercontent.com/DariusKocar/PerfectMemoryMac-releases/main/appcast.xml</link>
-    <description>Sparkle update feed for Perfect Memory (macOS). Populated on each release.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PerfectMemory</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 12 Jul 2026 00:20:32 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.1.0/PerfectMemory-0.1.0.zip" length="1145893" type="application/octet-stream" sparkle:edSignature="qVwTNtWl+0V4SMcwZdKLYPP32hgZ26hscIpRxlzpBczBi10sUNG1ZNVgBUvw42ZnEX3JZ6i5y6fbxfonpA7bCA=="/>
+        </item>
+    </channel>
 </rss>
