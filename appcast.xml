@@ -3,12 +3,12 @@
     <channel>
         <title>PerfectMemory</title>
         <item>
-            <title>0.8.1</title>
-            <pubDate>Fri, 31 Jul 2026 10:33:55 -0700</pubDate>
-            <sparkle:version>296</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <title>0.9.0</title>
+            <pubDate>Sat, 01 Aug 2026 20:03:01 -0700</pubDate>
+            <sparkle:version>316</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.8.1/PerfectMemory-0.8.1.zip" length="11717139" type="application/octet-stream" sparkle:edSignature="SMa2xsDxP5tCLjpXApKW3l4nhcc7au6ctIinD0qEB/oFgbZST8SJ+UCMmhfvBF8zOKlIuZdi4FCNp072zrnnDg=="/>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.9.0/PerfectMemory-0.9.0.zip" length="12887305" type="application/octet-stream" sparkle:edSignature="4QwHFKgyD01ebsHWYcysRad0y/7CaYI6c/6x1Pi8/VX9HcBPkIrRRmofn0EC90fo6qmOEDpImtPaPcEy/EsHDg=="/>
         </item>
     </channel>
 </rss>
