@@ -3,6 +3,15 @@
     <channel>
         <title>PerfectMemory</title>
         <item>
+            <title>0.17.6</title>
+            <pubDate>Wed, 02 Sep 2026 22:45:13 -0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>436</sparkle:version>
+            <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.6/PerfectMemory-0.17.6.zip" length="13856677" type="application/octet-stream" sparkle:edSignature="MArg87GfiXFqRm8WgMWlntM65N/fHictOtiYzWLD5HeWeVHGUxPLrbttYi72FkPqgZawgZkbpcEGPnU5kfiKDQ=="/>
+        </item>
+        <item>
             <title>0.17.5</title>
             <pubDate>Tue, 25 Aug 2026 08:09:23 -0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.17.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.4/PerfectMemory-0.17.4.zip" length="13771745" type="application/octet-stream" sparkle:edSignature="6ASAb9NVkxcYurWIOs4QBOej8xthF4W80Vm7RbRJNVr/ZK8Y25oswoPwf2Kt+rW2+Isg/2/oYMXoeJ1MsBQoDA=="/>
-        </item>
-        <item>
-            <title>0.17.3</title>
-            <pubDate>Mon, 24 Aug 2026 10:29:12 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>419</sparkle:version>
-            <sparkle:shortVersionString>0.17.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.3/PerfectMemory-0.17.3.zip" length="13696219" type="application/octet-stream" sparkle:edSignature="/qsFQXfOUeP88GQk8bia4Tt5l8jG53FYRno731E+2rlXiGD74F924FW8WQ9FlChfAi56npFYQv1isqgxNvq+CQ=="/>
         </item>
         <item>
             <title>0.17.1</title>
