@@ -3,6 +3,15 @@
     <channel>
         <title>PerfectMemory</title>
         <item>
+            <title>0.17.13</title>
+            <pubDate>Tue, 08 Sep 2026 10:53:05 -0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>457</sparkle:version>
+            <sparkle:shortVersionString>0.17.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.13/PerfectMemory-0.17.13.zip" length="13997766" type="application/octet-stream" sparkle:edSignature="S4JAbyOs42ULU/o5WAOGD93x9pbWsQ00POnzHdXQl7xtxxzLFm5nlGbfSi2k5v6Mp+sTaLGcheRtHOEXJApWDA=="/>
+        </item>
+        <item>
             <title>0.17.12</title>
             <pubDate>Tue, 08 Sep 2026 10:32:45 -0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.17.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.11/PerfectMemory-0.17.11.zip" length="13979025" type="application/octet-stream" sparkle:edSignature="oycDI34cJp5CHwgq0GOKE73N+KRLKkMmMqRjpaCEhPn4OcvomQg/uYSwYI4yb5Ivy38GkxBsADCJBoOnZ/+0DQ=="/>
-        </item>
-        <item>
-            <title>0.17.10</title>
-            <pubDate>Mon, 07 Sep 2026 15:49:03 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>450</sparkle:version>
-            <sparkle:shortVersionString>0.17.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.10/PerfectMemory-0.17.10.zip" length="13936942" type="application/octet-stream" sparkle:edSignature="2KpMxyp7y2e2v/k/FfYafRM0fTVipD6Gp3Vdl/YA8kEBsQXNA/zX7UeUKH0haAiCMjXwdRjoGNCDx/jAlfMrDQ=="/>
         </item>
         <item>
             <title>0.17.9</title>
