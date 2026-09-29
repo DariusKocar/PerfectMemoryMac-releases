@@ -3,6 +3,15 @@
     <channel>
         <title>PerfectMemory</title>
         <item>
+            <title>0.17.23</title>
+            <pubDate>Tue, 29 Sep 2026 12:27:09 -0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>517</sparkle:version>
+            <sparkle:shortVersionString>0.17.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.23/PerfectMemory-0.17.23.zip" length="14969428" type="application/octet-stream" sparkle:edSignature="A5gDiTCmmjLy21I6T/wH6UQpdsAxE2JVg6+esNZbAxku5y/Dw1TK1U1cqxGUjxDEzIIhsZ3aS0WbAdT0iyHgAg=="/>
+        </item>
+        <item>
             <title>0.17.22</title>
             <pubDate>Mon, 28 Sep 2026 14:19:20 -0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>0.17.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.21/PerfectMemory-0.17.21.zip" length="14769103" type="application/octet-stream" sparkle:edSignature="CXm1W34RK/me59FchZG9/YjyTyeYr/wrEopM/eGiIqaa0HqBygGRnxl/UwrOk1ZbWFnswXUIA6ubWN/x3s5xCw=="/>
-        </item>
-        <item>
-            <title>0.17.20</title>
-            <pubDate>Fri, 25 Sep 2026 09:41:58 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>493</sparkle:version>
-            <sparkle:shortVersionString>0.17.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.20/PerfectMemory-0.17.20.zip" length="14717284" type="application/octet-stream" sparkle:edSignature="nbwBF7uYfcTbZl6S4zUbJnReV3g4Y1n8HYRs44o3jYxyLLqT+XUV3X3MOp1cssNaa6dBkHSNYUSxCxLxOxsrCA=="/>
         </item>
         <item>
             <title>0.17.18</title>
