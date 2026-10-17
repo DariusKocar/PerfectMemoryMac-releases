@@ -3,39 +3,12 @@
     <channel>
         <title>PerfectMemory</title>
         <item>
-            <title>0.17.24</title>
-            <pubDate>Fri, 16 Oct 2026 07:49:40 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>520</sparkle:version>
-            <sparkle:shortVersionString>0.17.24</sparkle:shortVersionString>
+            <title>0.17.25</title>
+            <pubDate>Sat, 17 Oct 2026 13:35:15 -0700</pubDate>
+            <sparkle:version>523</sparkle:version>
+            <sparkle:shortVersionString>0.17.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.24/PerfectMemory-0.17.24.zip" length="14974680" type="application/octet-stream" sparkle:edSignature="kpPVbH0/YwopBMvdn/mzZrxbqMP1lflQoqvllPoBFhb93sJpnaVXnSNbDMX81LrPUHva7AkP3TEu+B27wn7NAA=="/>
-        </item>
-        <item>
-            <title>0.17.23</title>
-            <pubDate>Tue, 29 Sep 2026 12:27:09 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>517</sparkle:version>
-            <sparkle:shortVersionString>0.17.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.23/PerfectMemory-0.17.23.zip" length="14969428" type="application/octet-stream" sparkle:edSignature="A5gDiTCmmjLy21I6T/wH6UQpdsAxE2JVg6+esNZbAxku5y/Dw1TK1U1cqxGUjxDEzIIhsZ3aS0WbAdT0iyHgAg=="/>
-        </item>
-        <item>
-            <title>0.17.22</title>
-            <pubDate>Mon, 28 Sep 2026 14:19:20 -0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>512</sparkle:version>
-            <sparkle:shortVersionString>0.17.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.22/PerfectMemory-0.17.22.zip" length="14795738" type="application/octet-stream" sparkle:edSignature="CmPucgFGqTm9kvumdmEC13K54PcppVqtUPKjK4Dn3j+YflIrFZ0Phk9sPr4p1XhXEQVCQhXzKgfJHFV8DlvqAQ=="/>
-        </item>
-        <item>
-            <title>0.17.18</title>
-            <pubDate>Mon, 14 Sep 2026 14:40:27 -0700</pubDate>
-            <sparkle:version>466</sparkle:version>
-            <sparkle:shortVersionString>0.17.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.18/PerfectMemory-0.17.18.zip" length="14021141" type="application/octet-stream" sparkle:edSignature="b/o+t5JjWuZsiqgdXaTXRY17yp0najg1lxd8u6H2OXHYoVcT5zE6+6M7OnLjB0kAajv0C+yCa+a6ST6ekDMgAQ=="/>
+            <enclosure url="https://github.com/DariusKocar/PerfectMemoryMac-releases/releases/download/v0.17.25/PerfectMemory-0.17.25.zip" length="14974664" type="application/octet-stream" sparkle:edSignature="7++Jh5Wiitam1YkklzrMq8xCTULTKcxDmUSdJqa0xy7qP/aUelkztfqmgQs0yk7UNJnGd3fOZkc7tMjF1Ez+AQ=="/>
         </item>
     </channel>
 </rss>
